@@ -117,5 +117,6 @@
 
   .text-container {
     text-align: justify;
+    margin-bottom: 2rem;
   }
 }
